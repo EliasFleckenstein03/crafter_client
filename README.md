@@ -3,7 +3,7 @@
 
  > Designed for Minetest 5.3.0-DEV
 
-<a href="https://github.com/oilboi/Crafter"> Here is the actual game </a>
+<a href="https://github.com/EliasFleckenstein03/Crafter"> Here is the actual game </a>
 
 To install:
 
@@ -26,3 +26,10 @@ The Crafter game has clientside mods enabled by default so no further steps are 
 Current features:
 
 1.) Weather effects
+2.) Nether & Aether Portals
+3.) Music
+4.) Waila
+5.) Sleeping HUD
+6.) Burning HUD
+7.) Water Effects
+8.) Movement Improvements
